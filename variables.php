@@ -2,7 +2,7 @@
 
 
 
-$company_name = "St Joseph De IT Workers, Inc.";
+$company_name = "St Joseph De IT Workers, Org.";
 $tagline = "Teaching ICT since ";
 
 
